@@ -6,6 +6,10 @@ You can get the original version of it [here](http://wiki.unity3d.com/index.php/
 - Improved the confirmation button's text of the dialog.
 - Added a way to export through a custom editor window.
 - Fixed export path error caused by the wrong path separator.
+# How to use?
+1. Download the "ObjExporter.cs".
+2. Put it in your "Editor" folder.
+3. Select the appropriate menu item from "Custom->Export".
 # Author Info
 Blog: http://bathur.cn/
 # License
